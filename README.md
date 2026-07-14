@@ -110,6 +110,7 @@ The insights from this project can help businesses:
 | Train.csv | Dataset used for analysis |
 | requirements.txt | Python packages required |
 | .gitignore | Excludes notebook checkpoints and cache files |
+| LICENSE | MIT license for the project |
 | images/ | Exported charts used in the README |
 
 
